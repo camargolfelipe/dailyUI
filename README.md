@@ -4,7 +4,7 @@ Daily challenge created by DailyUI
 
 # Screenshot:
 
- ### 001
+ ### 001/100 - Sign Up
 <img src="assets/screenshots/001.jpeg"/>
 
 ### 💻  Requirements:
